@@ -12,18 +12,9 @@
 <!--- stats -->
 ## Estadísticas 📊
 <p align="center">
-  <table align="center">
-<tr border="none">
-<td width="100%" align="center">
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <img alt="Mark streak" style="width: 75%;" src="https://github-readme-streak-stats.herokuapp.com/?user=DevGiovanniLC&theme=nord&hide_border=false" /> 
-  <br><br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevGiovanniLC&theme=nord&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</div>
-  </td>
-</tr>
-</table>
+  <img alt="Mark streak" style="width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=DevGiovanniLC&theme=nord&hide_border=false" /> 
 </p>
 
+  <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGiovanniLC&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 <!--- stats (end) -->
