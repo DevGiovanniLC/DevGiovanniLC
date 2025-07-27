@@ -4,7 +4,7 @@
 </div>
     
 ## Lenguajes and Herramientas:
-[![My Skills](https://skillicons.dev/icons?i=angular,cypress,nodejs,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,python,java,cypress,nodejs,ts,js,html,css)](https://skillicons.dev)
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=aws,firebase,github,docker,git)](https://skillicons.dev)
 <br><br>
