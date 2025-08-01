@@ -11,10 +11,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,figma)](https://skillicons.dev)
 <!--- stats -->
 ## Estadísticas 📊
+<!---  
 <p align="center">
-  <img alt="Mark streak" style="width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=DevGiovanniLC&theme=nord&hide_border=false" /> 
+  <img alt="Mark streak" style="width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=DevGiovanniLC&theme=nord" /> 
 </p>
-
+-->
   <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGiovanniLC&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 <!--- stats (end) -->
