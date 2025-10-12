@@ -1,10 +1,11 @@
 <!--- Portada -->
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF796E&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Bienvenido!+Soy+Giovanni+%F0%9F%91%8B;Ingeniero+informático+&#128187;;Desarrollador+Web/Móvil+%F0%9F%93%B1;" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=99FFA4&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Bienvenido!+Soy+Giovanni+%F0%9F%91%8B;Ingeniero+informático+&#128187;;Desarrollador+Web/Móvil+%F0%9F%93%B1;" alt="Headline" />
     
 <br>
 
-<img width="744" height="400" alt="banner" src="https://github.com/user-attachments/assets/c6319f5c-45a3-4498-a501-498ecffd339f" />
+<img width="1087" height="500" alt="banner2" src="https://github.com/user-attachments/assets/030b851f-7182-4934-9a67-ad2c4b940577" />
+
 
 
 </div>
@@ -31,5 +32,5 @@
 <!--- stats -->
 <br><br>
 ## Estadísticas 📊:
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevGiovanniLC&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevGiovanniLC&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
