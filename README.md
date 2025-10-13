@@ -5,15 +5,20 @@
 <img height="500" src="https://github.com/user-attachments/assets/f85d839e-785d-4ace-95bc-d3872aa55572" alt="Headline" /> <br>
 </div>
 
----
 <!--- About me -->
 ## 🧑🏻‍💻 Sobre mí
 - Graduado en ingeniería informática por la Universidad de Las Palmas de Gran Canaria
-- Me apasiona el desarrollo de software (fullstack)
+- Me apasiona el desarrollo de software (Fullstack)
 - Me encanta probar tecnologias y frameworks nuevos
 - Siempre dispuesto a aprender y a crecer laboralmente
 
-<!--- Skills -->
+### 🌐Social
+  <a href="https://www.linkedin.com/in/giovanni-león-corujo-558b16320" target="_blank"> ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil%20Profesional-0A66C2?logo=linkedin-white&logoColor=fff) 
+  </a>
+
+---
+
+<br><!--- Skills -->
 ## 🛠️ Languajes & herramientas:
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -23,7 +28,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev) <span>ㅤㅤㅤ</span> [![My Skills](https://skillicons.dev/icons?i=cypress,vitest)](https://skillicons.dev) <span>ㅤㅤㅤ</span> [![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 
----
 <!--- Top Repositorios -->
 ## 💻 Proyectos principales:
 
@@ -116,7 +120,7 @@ Aplicación de escritorio para programar el <strong>apagado, reinicio e hibernac
 
 ---
 
-<!--- stats -->
+<br><!--- stats -->
 ## 📊 Estadísticas:
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGiovanniLC&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
