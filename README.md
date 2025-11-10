@@ -9,7 +9,7 @@
 ## 🧑🏻‍💻 Sobre mí
 - Graduado en ingeniería informática por la Universidad de Las Palmas de Gran Canaria
 - Me apasiona el desarrollo de software (Fullstack)
-- Me encanta probar tecnologias y frameworks nuevos
+- Me encanta probar tecnologías y frameworks nuevos
 - Siempre dispuesto a aprender y a crecer laboralmente
 
 ### 🌐Social
@@ -119,8 +119,4 @@ Aplicación de escritorio para programar el <strong>apagado, reinicio e hibernac
 </div>
 
 ---
-
-<br><!--- stats -->
-## 📊 Estadísticas:
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevGiovanniLC&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
